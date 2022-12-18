@@ -6,7 +6,7 @@ Due to our technological advances, we have a desire to gather data and use them 
 
 ##### Compared to a certain coin, should the user trade user's current coin by looking at the historical trend?
 
-### Data Analysis
+## Data Analysis
 The graph below shows this week's coin data versus last week's.
 The coloring of the graph lines should pop to the user and quickly give away whether the current week's price is higher or lower than last week's.
 In a quick glance of the graph, questions should arise from the user:
