@@ -15,7 +15,7 @@ In a quick glance of the graph, questions should arise from the user:
 * Bitcoin lowered from last week; however, it is not that much lower. Perhaps, I should keep.
 * Bitcoin is losing a lot in price. I should definitely sell.
     
-![png](currency-exchange-Copy1_files/currency-exchange-Copy1_15_0.png)  
+![png](currency_exchange_images/last_this_graph.png)  
 
 
 References: 
