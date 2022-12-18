@@ -18,5 +18,7 @@ In a quick glance of the graph, questions should arise from the user:
 ![png](currency_exchange_images/last_this_graph.png)  
 
 
+API Service: Coingecko
+
 References: 
 Nussbaumer Knaflic, Cole (2015). Storytelling with Data
